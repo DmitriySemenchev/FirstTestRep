@@ -3,6 +3,7 @@ import FeedbackPageTs from '../pages/FeedbackPageTs'
 
 const feedbackPageTs = new FeedbackPageTs
 
+
 fixture('Тестирование страницы Feedback')
 .page('http://zero.webappsecurity.com/')
 
