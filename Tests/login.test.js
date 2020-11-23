@@ -1,9 +1,7 @@
 import { Selector } from 'testcafe';
 import LoginPage from '../pages/loginPage';
 
-
 const loginPage = new LoginPage()
-
 
 fixture `Login Test`
 .page `http://zero.webappsecurity.com/`;
