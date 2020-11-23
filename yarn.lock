@@ -2957,6 +2957,11 @@ testcafe-reporter-spec@^2.1.1:
   resolved "https://registry.yarnpkg.com/testcafe-reporter-spec/-/testcafe-reporter-spec-2.1.1.tgz#8156fced0f5132486559ad560bc80676469275ec"
   integrity sha1-gVb87Q9RMkhlWa1WC8gGdkaSdew=
 
+testcafe-reporter-teamcity@^1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/testcafe-reporter-teamcity/-/testcafe-reporter-teamcity-1.0.12.tgz#2f101c37e5eb95a2c87257100f425fef71ff18a5"
+  integrity sha512-De2F9ixzur3lbiEcKAFxHwq2OmSGoFrezEKVaz3crlUfk7ZuLC1eewfM9i7EuNKrViNhCDuA29ydhCOsMLmwoQ==
+
 testcafe-reporter-xunit@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/testcafe-reporter-xunit/-/testcafe-reporter-xunit-2.1.0.tgz#e6d66c572ce15af266706af0fd610b2a841dd443"
