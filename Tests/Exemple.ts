@@ -3,7 +3,7 @@ import { Selector, RequestLogger, RequestMock } from 'testcafe';
 import { ClientFunction } from 'testcafe'
 import {  getCurentUrl2 } from '../helpers/Exemple';
 
-
+ 
 fixture `My fixture`
     .page `http://devexpress.github.io/testcafe/example/`;
 

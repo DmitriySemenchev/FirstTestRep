@@ -1,0 +1,19 @@
+{
+  "name": "testcafe-testing",
+  "version": "1.0.0",
+  "description": "Automated testing with TestCafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests --steps -s takeOnFails=true '--live --debug'"
+  },
+  "keywords": [
+    "TestCafe",
+    "Testing",
+    "Automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.6"
+  }
+}
